@@ -1,5 +1,6 @@
 # ngx_lua_waf
-waf
+
+使用Nginx+Lua实现的WAF应用防火墙
 
 参考资料：
 
